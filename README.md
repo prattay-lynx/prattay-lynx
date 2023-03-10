@@ -1,4 +1,4 @@
-
+![logo](https://github.com/prattay-lynx/prattay-lynx/blob/main/New%20banner.png)
 <h1 align="center">Hi 👋, I'm Prattay</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
