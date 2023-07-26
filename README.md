@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prattay_lynx" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1245px-Twitter-logo.svg.png](https://logo.com/image-cdn/images/kts928pd/production/7c1b5a0e89db08835082befb6cfa0b3930581cb7-700x394.jpg?w=1080&q=72)" alt="prattay_lynx" height="30" width="30" /></a>
+<a href="https://twitter.com/prattay_lynx" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20221019/original/pngtree-twitter-social-media-round-icon-png-image_8704823.png" alt="prattay_lynx" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/prattay-paul-379455244" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="www.linkedin.com/in/prattay-paul-379455244" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/paul_lynx5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="paul_lynx5" height="30" width="40" /></a>
 </p>
